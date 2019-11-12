@@ -1,0 +1,290 @@
+Title: undefined
+
+Year: undefined
+
+imdb Rating: undefined
+
+Country: undefined
+
+Language: undefined
+
+Plot: undefined
+
+Cast: undefined
+------------------------------------------------------------
+
+Title: Shrek
+
+Year: 2001
+
+imdb Rating: 7.8
+
+Country: USA
+
+Language: English
+
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+
+Cast: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Enter Sandman,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Nothing Else Matters,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: One (Remastered),
+Album Name: ...And Justice for All (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/4b448b02d032feffc0ea50533b9885d5fdcf9b6a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Master of Puppets (Remastered),
+Album Name: Master of Puppets (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/12d4140bb2d0b18aa26cf84c33e4f4efd97fe72b?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: For Whom The Bell Tolls (Remastered),
+Album Name: Ride The Lightning (Deluxe Remaster),
+Preview Track: https://p.scdn.co/mp3-preview/5ec34f31f15d7fd09bb958ecfa6b91228d8c8a3c?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Sunflower - Spider-Man: Into the Spider-Verse,
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rex Orange County,
+Track Name: Sunflower,
+Album Name: Sunflower,
+Preview Track: https://p.scdn.co/mp3-preview/561e89f54d6e333789baae4fb220713221e18f6c?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Bryce Vine,
+Track Name: Sunflower Seeds,
+Album Name: Sunflower Seeds,
+Preview Track: https://p.scdn.co/mp3-preview/71a3ab0d1ba47ca45e472a1b6e0cde45a678ccef?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Sunflower - Spider-Man: Into the Spider-Verse,
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Kuzu Mellow,
+Track Name: Sunflower Feelings,
+Album Name: Sunflower Feelings,
+Preview Track: https://p.scdn.co/mp3-preview/144218da856a9a8e819b32d67b5ae95782711a15?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: I'm A Believer - Soundtrack Version,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rufus Wainwright,
+Track Name: Hallelujah,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Harry Gregson-Williams,
+Track Name: Fairytale,
+Album Name: Shrek (Original Motion Picture Score),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: All Star,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Leah Greenhaus,
+Track Name: I Know It's Today,
+Album Name: Shrek The Musical,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Enter Sandman,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Master of Puppets (Remastered),
+Album Name: Master of Puppets (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/12d4140bb2d0b18aa26cf84c33e4f4efd97fe72b?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: One (Remastered),
+Album Name: ...And Justice for All (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/4b448b02d032feffc0ea50533b9885d5fdcf9b6a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Nothing Else Matters,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: For Whom The Bell Tolls (Remastered),
+Album Name: Ride The Lightning (Deluxe Remaster),
+Preview Track: https://p.scdn.co/mp3-preview/5ec34f31f15d7fd09bb958ecfa6b91228d8c8a3c?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: I'm A Believer - Soundtrack Version,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Leah Greenhaus,
+Track Name: I Know It's Today,
+Album Name: Shrek The Musical,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Harry Gregson-Williams,
+Track Name: Fairytale,
+Album Name: Shrek (Original Motion Picture Score),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: All Star,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rufus Wainwright,
+Track Name: Hallelujah,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Russ,
+Track Name: Kill Them All,
+Album Name: ZOO,
+Preview Track: https://p.scdn.co/mp3-preview/4289df0c2cf2cda9c87fa2370fa362458f06521d?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Magic Sword,
+Track Name: Kill Them All,
+Album Name: Volume 1,
+Preview Track: https://p.scdn.co/mp3-preview/a357ee41e485b0e81e284eb6dd2eabc5bb5df7e1?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Ramin Djawadi,
+Track Name: Kill Them All - From The "Game Of Thrones" Soundtrack,
+Album Name: Game Of Thrones (Music From The HBO Series),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Magic Sword,
+Track Name: Kill Them All,
+Album Name: Volume 1 (Deluxe Edition),
+Preview Track: https://p.scdn.co/mp3-preview/a357ee41e485b0e81e284eb6dd2eabc5bb5df7e1?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Borgore,
+Track Name: Kill Them All (feat. Adi Ulmansky),
+Album Name: #NEWGOREORDER,
+Preview Track: https://p.scdn.co/mp3-preview/34681c5d4d2cca03da85535a5bb18fed1995d3ea?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Circles,
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Jon Bellion,
+Track Name: Crop Circles,
+Album Name: Crop Circles,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: EDEN,
+Track Name: Circles,
+Album Name: i think you think too much of me,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Pierce The Veil,
+Track Name: Circles,
+Album Name: Misadventures,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Snaer.,
+Track Name: Circles,
+Album Name: Lazy.Files,
+Preview Track: https://p.scdn.co/mp3-preview/3adef4fabc4075f9daa248ebbf39fd680c8fa5be?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+Title: Spiderman
+
+Year: 1990
+
+imdb Rating: 5.7
+
+Country: Switzerland
+
+Language: German
+
+Plot: N/A
+
+Cast: N/A
+------------------------------------------------------------
+
