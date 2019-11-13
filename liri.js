@@ -15,30 +15,12 @@ var fs = require('fs');
 
 var spotify = new Spotify(keys.spotify);
 var input = process.argv[2];
-var searchType = process.argv.splice(3).join();
+var searchType = process.argv.splice(3).join(' ');
 
 
 //Statements for user input//
 
-//OMDB//
-if (input === 'movie-this') {
-    movieThis(searchType);
-}
-//BANDS IN TOWN//
-else if (input === 'concert-this') {
-    concertThis(searchType);
-}
-//SPOTIFY//
-else if (input === 'spotify-this-song') {
-    spotifyTrack(searchType);
-}
-else if (input === 'do-what-it-says') {
-    doWhatItSays(searchType);
-}
-else {
-    console.log('LIRI doesnt know that!');
 
-}
 
 
 //OMDB FUNCTION//
@@ -110,7 +92,9 @@ var concertThis = function (artist) {
                 });
             }
         }
-    );
+    ).catch(err => {
+        console.error(err)
+    });
 };
 
 
@@ -183,3 +167,22 @@ function doWhatItSays() {
 
 
 
+//OMDB//
+if (input === 'movie-this') {
+    movieThis(searchType);
+}
+//BANDS IN TOWN//
+else if (input === 'concert-this') {
+    concertThis(searchType);
+}
+//SPOTIFY//
+else if (input === 'spotify-this-song') {
+    spotifyTrack(searchType);
+}
+else if (input === 'do-what-it-says') {
+    doWhatItSays(searchType);
+}
+else {
+    console.log('LIRI doesnt know that!');
+
+}
