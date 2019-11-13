@@ -288,3 +288,258 @@ Plot: N/A
 Cast: N/A
 ------------------------------------------------------------
 
+
+Artist: Smash Mouth,
+Track Name: I'm A Believer - Soundtrack Version,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Harry Gregson-Williams,
+Track Name: Fairytale,
+Album Name: Shrek (Original Motion Picture Score),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Leah Greenhaus,
+Track Name: I Know It's Today,
+Album Name: Shrek The Musical,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: All Star,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rufus Wainwright,
+Track Name: Hallelujah,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+Title: Shrek
+
+Year: 2001
+
+imdb Rating: 7.8
+
+Country: USA
+
+Language: English
+
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+
+Cast: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+------------------------------------------------------------
+
+Title: Naruto
+
+Year: 2002–2007
+
+imdb Rating: 8.2
+
+Country: Japan
+
+Language: English, Japanese
+
+Plot: Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.
+
+Cast: Junko Takeuchi, Maile Flanagan, Kate Higgins, Chie Nakamura
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Circles,
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Take What You Want (feat. Ozzy Osbourne & Travis Scott),
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Goodbyes (feat. Young Thug),
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Enemies (feat. DaBaby),
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Post Malone,
+Track Name: Saint-Tropez,
+Album Name: Hollywood's Bleeding,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Enter Sandman,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Nothing Else Matters,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: One (Remastered),
+Album Name: ...And Justice for All (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/4b448b02d032feffc0ea50533b9885d5fdcf9b6a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: For Whom The Bell Tolls (Remastered),
+Album Name: Ride The Lightning (Deluxe Remaster),
+Preview Track: https://p.scdn.co/mp3-preview/5ec34f31f15d7fd09bb958ecfa6b91228d8c8a3c?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Master of Puppets (Remastered),
+Album Name: Master of Puppets (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/12d4140bb2d0b18aa26cf84c33e4f4efd97fe72b?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: I'm A Believer - Soundtrack Version,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rufus Wainwright,
+Track Name: Hallelujah,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Harry Gregson-Williams,
+Track Name: Fairytale,
+Album Name: Shrek (Original Motion Picture Score),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: All Star,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Leah Greenhaus,
+Track Name: I Know It's Today,
+Album Name: Shrek The Musical,
+Preview Track: null
+------------------------------------------------------------
+
+Title: Shrek
+
+Year: 2001
+
+imdb Rating: 7.8
+
+Country: USA
+
+Language: English
+
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+
+Cast: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: I'm A Believer - Soundtrack Version,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Rufus Wainwright,
+Track Name: Hallelujah,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Harry Gregson-Williams,
+Track Name: Fairytale,
+Album Name: Shrek (Original Motion Picture Score),
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Smash Mouth,
+Track Name: All Star,
+Album Name: Shrek,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Leah Greenhaus,
+Track Name: I Know It's Today,
+Album Name: Shrek The Musical,
+Preview Track: null
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Enter Sandman,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Nothing Else Matters,
+Album Name: Metallica,
+Preview Track: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: One (Remastered),
+Album Name: ...And Justice for All (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/4b448b02d032feffc0ea50533b9885d5fdcf9b6a?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: Master of Puppets (Remastered),
+Album Name: Master of Puppets (Remastered Deluxe Box Set),
+Preview Track: https://p.scdn.co/mp3-preview/12d4140bb2d0b18aa26cf84c33e4f4efd97fe72b?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+
+
+Artist: Metallica,
+Track Name: For Whom The Bell Tolls (Remastered),
+Album Name: Ride The Lightning (Deluxe Remaster),
+Preview Track: https://p.scdn.co/mp3-preview/5ec34f31f15d7fd09bb958ecfa6b91228d8c8a3c?cid=6b79f0c66c4d4fea883d2ac8030a9899
+------------------------------------------------------------
+

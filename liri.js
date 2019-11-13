@@ -93,7 +93,7 @@ var concertThis = function (artist) {
 
             for (var i = 0; i < jsonData.length; i++) {
                 var show = jsonData[i];
-                // Use moment to format the date
+                // will display the venue, city, and region along with the country and format. 
                 console.log(
                     show.venue.city +
                     "," +
