@@ -62,9 +62,15 @@ As a security precaution the Spotify Client ID & SECRET were stored on a local .
 
 
 ![log-this](https://user-images.githubusercontent.com/54006976/68720877-60691280-0576-11ea-8665-96ae7a335cd7.gif)
+
 ![do-it](https://user-images.githubusercontent.com/54006976/68720887-63fc9980-0576-11ea-8a48-fa3bce95534f.gif)
+
 ![spotify](https://user-images.githubusercontent.com/54006976/68720892-65c65d00-0576-11ea-96d9-cdb6d57e3c28.gif)
+
 ![movie-this](https://user-images.githubusercontent.com/54006976/68720894-66f78a00-0576-11ea-9454-e3820e111933.gif)
+
+![concert](https://user-images.githubusercontent.com/54006976/68721911-922fa880-0579-11ea-9797-9615ffbf032e.gif)
+
 
 
 
@@ -79,3 +85,6 @@ var axios = require("axios");
 var Spotify = require("node-spotify-api");
 
 var spotifyKeyInfo = require("./keys.js");
+
+
+
