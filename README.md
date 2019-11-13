@@ -61,6 +61,13 @@ Step Four: On the next screen, scroll down to where you see your client id and c
 As a security precaution the Spotify Client ID & SECRET were stored on a local .env file and added to a local .gitignore file to avoid publishing the information.
 
 
+![log-this](https://user-images.githubusercontent.com/54006976/68720877-60691280-0576-11ea-8665-96ae7a335cd7.gif)
+![do-it](https://user-images.githubusercontent.com/54006976/68720887-63fc9980-0576-11ea-8a48-fa3bce95534f.gif)
+![spotify](https://user-images.githubusercontent.com/54006976/68720892-65c65d00-0576-11ea-96d9-cdb6d57e3c28.gif)
+![movie-this](https://user-images.githubusercontent.com/54006976/68720894-66f78a00-0576-11ea-9454-e3820e111933.gif)
+
+
+
 Require & Local Linked files
 LIRI required installation of several npm packages and links to local files.
 
