@@ -60,15 +60,15 @@ Step Three: Once logged in, navigate to https://developer.spotify.com/my-applica
 Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
 As a security precaution the Spotify Client ID & SECRET were stored on a local .env file and added to a local .gitignore file to avoid publishing the information.
 
-
+log text file records 
 ![log-this](https://user-images.githubusercontent.com/54006976/68720877-60691280-0576-11ea-8665-96ae7a335cd7.gif)
-
+do what it says 
 ![do-it](https://user-images.githubusercontent.com/54006976/68720887-63fc9980-0576-11ea-8a48-fa3bce95534f.gif)
-
+spotify this song 
 ![spotify](https://user-images.githubusercontent.com/54006976/68720892-65c65d00-0576-11ea-96d9-cdb6d57e3c28.gif)
-
+OMDV this movie 
 ![movie-this](https://user-images.githubusercontent.com/54006976/68720894-66f78a00-0576-11ea-9454-e3820e111933.gif)
-
+concert info 
 ![concert](https://user-images.githubusercontent.com/54006976/68721911-922fa880-0579-11ea-9797-9615ffbf032e.gif)
 
 
